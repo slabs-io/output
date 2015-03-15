@@ -1,0 +1,23 @@
+{
+  "name" : "View Data",
+  "description" : "A simple pretty json output for data",
+  "type" : "output",
+  "connectionsIn" : 1,
+  "connectionsOut" : 0,
+  "customIcon" : "fa-table",
+  "schema" : {
+    "type": "object",
+    "properties" : {
+      "title": {
+        "type": "string",
+        "default": "My Grid",
+        "title": "Grid Title",
+        "brief": "Title"
+      }
+    }
+  },
+  "source": {
+    "label": "Brunton Slab™",
+    "url": "http://benbru.com/"
+  }
+}

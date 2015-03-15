@@ -1,0 +1,35 @@
+{
+  "name": "slabs.io.js",
+  "main": "slabs.io.js",
+  "version": "0.0.10",
+  "homepage": "https://github.com/slabs-io/slabs.io.js",
+  "authors": [
+    "Elliot Agro <elliot@slabs.io>"
+  ],
+  "description": "Helper class for slabs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qwest": "~1.5.4",
+    "q": "1.1.2"
+  },
+  "resolutions": {
+    "q": "1.1.2"
+  },
+  "_release": "0.0.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.10",
+    "commit": "a390bbbff32ea9684524bdc4cf865ea953fc3c59"
+  },
+  "_source": "git://github.com/slabs-io/slabs.io.js.git",
+  "_target": "~0.0.9",
+  "_originalSource": "slabs.io.js"
+}

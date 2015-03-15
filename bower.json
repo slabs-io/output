@@ -1,0 +1,20 @@
+{
+  "name": "view-data",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Brunton <ben@slabs.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slabs.io.js": "~0.0.9",
+    "jsonpanel": "~0.1.2"
+  }
+}
